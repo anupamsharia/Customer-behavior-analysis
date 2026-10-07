@@ -427,13 +427,8 @@ and execute the queries against the PostgreSQL `customer` table.
 
 Open:
 
-```text
-customer_behavior_dashboard.pbix
-```
+<img width="1335" height="723" alt="image" src="https://github.com/user-attachments/assets/c3b53046-8349-43d3-a477-c27947a31cfd" />
 
-in Microsoft Power BI Desktop.
-
----
 
 # 📌 Business Recommendations
 
